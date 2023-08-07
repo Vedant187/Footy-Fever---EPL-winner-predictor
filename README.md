@@ -1,4 +1,4 @@
-# Footy-Fever---EPL-winner-predictor
+# Footy-Fever-EPL-winner-predictor
 
 ## Functionalities:
 * Predict the English Premier League team Win or Lose by analyzing technical and non-technical parameters.
